@@ -6,6 +6,8 @@ public class Main {
     public static void main(String[] args)  {
         var scanner = new Scanner(System.in);
 
+        //GitHub Test
+
         System.out.println("What is the fuel cost of the car per 100 km?");
         var fuel = scanner.nextDouble();
         System.out.println("Fuel cost is " + fuel);
